@@ -1,0 +1,11 @@
+h1{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
+
+div div{
+    background-color: pink;
+    padding:2px;
+    margin: auto;
+}
